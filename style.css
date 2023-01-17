@@ -1,0 +1,22 @@
+#pig{
+    width: 30%;
+    margin-left: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid;
+ 
+}
+.input{
+    /* width: 55%; */
+}
+.textinput{
+    margin: 4px;
+    width: 20%;
+    /* padding: 4px; */
+}
+.editbtn{
+    margin: 4px;
+}
+
